@@ -1,0 +1,6 @@
+@csgoSkins_HostAddress = http://localhost:5162
+
+GET {{csgoSkins_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

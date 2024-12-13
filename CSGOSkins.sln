@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csgoSkins", "csgoSkins\csgoSkins.csproj", "{289BD61E-A248-4E31-8044-D85206187277}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data", "data\data.csproj", "{2DE00F36-D086-4979-AB94-A35F9E78E267}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{289BD61E-A248-4E31-8044-D85206187277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{289BD61E-A248-4E31-8044-D85206187277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{289BD61E-A248-4E31-8044-D85206187277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE00F36-D086-4979-AB94-A35F9E78E267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE00F36-D086-4979-AB94-A35F9E78E267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE00F36-D086-4979-AB94-A35F9E78E267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE00F36-D086-4979-AB94-A35F9E78E267}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
